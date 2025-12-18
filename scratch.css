@@ -1,0 +1,27 @@
+body {
+  background-color: #f4f6f8;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.header {
+  background-color: #1f2933;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.content {
+  margin: 20px;
+  padding: 15px;
+  background-color: white;
+}
+
+.tableau {
+  margin: 20px;
+}
+
+.footer {
+  text-align: center;
+  margin: 20px;
+}

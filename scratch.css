@@ -20,6 +20,12 @@ body {
 .tableau {
   margin: 20px;
 }
+.container {
+  max-width: 900px;
+  margin: 40px auto;
+  background-color: white;
+  padding: 30px;
+}
 
 .footer {
   text-align: center;
